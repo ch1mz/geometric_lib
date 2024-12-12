@@ -3,11 +3,11 @@ name: Unit tests
 on: 
   push:
     branches:
-      - test
+      - tests
       - main
   pull_request:
     branches:
-      - test
+      - tests
       - main
      
 
